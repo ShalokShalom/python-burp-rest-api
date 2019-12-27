@@ -46,5 +46,5 @@ A burp python RESTFul API package.
 
 ## Bugs and Feature Requests
 
-If you Found bug or have a feature request? Please open a new issue (https://github.com/anandtiwarics/python-burp-rest-api/issues).
+If you found a bug or have a feature request, please open a new issue (https://github.com/anandtiwarics/python-burp-rest-api/issues).
 
